@@ -1,2 +1,2 @@
-# spring-mvc-show
-Spring MVC Showcase Project
+# demo_git
+Une demo Git
